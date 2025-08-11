@@ -1,0 +1,7 @@
+.Vue-Toastification__container.top-right {
+    /* Pushes the entire toast container down from the top edge of the screen */
+    margin-top: 70px; /* <-- You can adjust this value to your liking */
+
+    /* You could also add a right margin if you want space from the side edge */
+    /* margin-right: 20px; */
+}
